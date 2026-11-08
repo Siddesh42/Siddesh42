@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddesh42" alt="siddesh42" /></a> </p>
 
-- 🔭 I’m currently working on **Frontend Technologies**
+- 🔭 I’m currently working on **AI Enabled Full Stack Applications**
 
-- 🌱 I’m currently learning **ReactJS, TypeScript, NextJS**
+- 🌱 I’m currently learning **ReactJS, TypeScript, NextJS, Python**
 
-- 👯 I’m looking to collaborate on **Frontend Projects & Full Stack Projects**
+- 👯 I’m looking to collaborate on **Frontend Projects & AI Full Stack Projects**
 
-- 💬 Ask me about **ReactJS, NextJS**
+- 💬 Ask me about **ReactJS, NextJS, Python, FastAPI**
 
 - 📫 How to reach me **siddeshsasane42@gmail.com**
 
